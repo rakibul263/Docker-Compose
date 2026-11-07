@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2023,
+    "color": "White",
+    "price": 28000,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": 2,
+    "brand": "BMW",
+    "model": "M4",
+    "year": 2024,
+    "color": "Black",
+    "price": 75000,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": 3,
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2024,
+    "color": "Red",
+    "price": 45000,
+    "fuel_type": "Electric"
+  },
+  {
+    "id": 4,
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2022,
+    "color": "Blue",
+    "price": 25000,
+    "fuel_type": "Petrol"
+  }
+]
